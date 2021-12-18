@@ -1,5 +1,7 @@
+cargo-features = ["edition2021"]
+
 [programs.localnet]
-flan_flattery = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+flan_flattery = "CveUqsUvmZbHuHWNt5hLrVwVjKds3tWwowzC6JpjAiPk"
 
 [registry]
 url = "https://anchor.projectserum.com"
